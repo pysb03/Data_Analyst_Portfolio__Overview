@@ -63,6 +63,6 @@ Coffee shop sales analysis to identify sales trends, product performance, and st
 
 LinkedIn: ...
 
-Email: pysb03@gmail.com or pysb03@outlook.com
+Email: piyawat.pysb@gmail.com 
 
-Tel. 095-354- 9207
+Tel. 095-354-9207
