@@ -61,7 +61,7 @@ Coffee shop sales analysis to identify sales trends, product performance, and st
 
 ## 📫 Contact
 
-LinkedIn: ...
+LinkedIn: linkedin.com/in/piyawat-suksabai-a6a653438
 
 Email: piyawat.pysb@gmail.com 
 
