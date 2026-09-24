@@ -70,7 +70,7 @@ Global Electronics Retailers analysis using Excel and Power BI for analyzing sal
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/piyawat-suksabai-a6a653438
+LinkedIn: www.linkedin.com/in/piyawat-suksabai-a6a653438
 
 Email: piyawat.pysb@gmail.com 
 
