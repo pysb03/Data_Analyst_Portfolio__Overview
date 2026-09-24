@@ -59,6 +59,15 @@ Coffee shop sales analysis to identify sales trends, product performance, and st
 
 ---
 
+### 05. Global Electronics Retailer
+Global Electronics Retailers analysis using Excel and Power BI for analyzing sales performance, products, customers, and sales channels for a global electronics retailer.
+
+-> Power BI
+
+🔗 View Project: https://github.com/pysb03/Global_Electronics_Retailer
+
+---
+
 ## 📫 Contact
 
 LinkedIn: linkedin.com/in/piyawat-suksabai-a6a653438
